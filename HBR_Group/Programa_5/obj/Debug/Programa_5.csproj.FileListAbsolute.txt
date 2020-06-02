@@ -1,0 +1,6 @@
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_5\bin\Debug\Programa_5.exe.config
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_5\bin\Debug\Programa_5.exe
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_5\bin\Debug\Programa_5.pdb
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_5\obj\Debug\Programa_5.csproj.CoreCompileInputs.cache
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_5\obj\Debug\Programa_5.exe
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_5\obj\Debug\Programa_5.pdb

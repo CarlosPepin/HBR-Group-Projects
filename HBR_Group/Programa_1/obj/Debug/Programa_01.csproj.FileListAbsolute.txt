@@ -1,0 +1,7 @@
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\HBR_Group\bin\Debug\HBR_Group.exe.config
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\HBR_Group\bin\Debug\HBR_Group.exe
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\HBR_Group\bin\Debug\HBR_Group.pdb
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\HBR_Group\obj\Debug\Programa_01.csprojAssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\HBR_Group\obj\Debug\Programa_01.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\HBR_Group\obj\Debug\HBR_Group.exe
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\HBR_Group\obj\Debug\HBR_Group.pdb

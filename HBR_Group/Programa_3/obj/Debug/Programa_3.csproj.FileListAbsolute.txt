@@ -1,0 +1,7 @@
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_3\bin\Debug\Programa_3.exe.config
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_3\bin\Debug\Programa_3.exe
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_3\bin\Debug\Programa_3.pdb
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_3\obj\Debug\Programa_3.csprojResolveAssemblyReference.cache
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_3\obj\Debug\Programa_3.csproj.CoreCompileInputs.cache
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_3\obj\Debug\Programa_3.exe
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_3\obj\Debug\Programa_3.pdb

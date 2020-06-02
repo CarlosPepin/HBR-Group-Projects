@@ -1,0 +1,13 @@
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_118\bin\Debug\Programa_118.exe.config
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_118\bin\Debug\Programa_118.exe
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_118\bin\Debug\Programa_118.pdb
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_118\obj\Debug\Programa_18.csproj.CoreCompileInputs.cache
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_118\obj\Debug\Programa_118.exe
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_118\obj\Debug\Programa_118.pdb
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_118\bin\Debug\Programa_118.exe.config
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_118\bin\Debug\Programa_118.exe
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_118\bin\Debug\Programa_118.pdb
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_118\obj\Debug\Programa_18.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_118\obj\Debug\Programa_118.exe
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_118\obj\Debug\Programa_118.pdb
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_118\obj\Debug\Programa_18.csprojAssemblyReference.cache

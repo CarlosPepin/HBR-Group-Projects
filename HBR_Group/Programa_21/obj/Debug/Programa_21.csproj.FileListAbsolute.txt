@@ -1,0 +1,7 @@
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_21\bin\Debug\Programa_21.exe.config
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_21\bin\Debug\Programa_21.exe
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_21\bin\Debug\Programa_21.pdb
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_21\obj\Debug\Programa_21.csprojAssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_21\obj\Debug\Programa_21.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_21\obj\Debug\Programa_21.exe
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_21\obj\Debug\Programa_21.pdb

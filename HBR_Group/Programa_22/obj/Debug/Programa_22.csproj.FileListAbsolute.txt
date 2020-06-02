@@ -1,0 +1,13 @@
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_22\bin\Debug\Programa_22.exe.config
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_22\bin\Debug\Programa_22.exe
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_22\bin\Debug\Programa_22.pdb
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_22\obj\Debug\Programa_22.csproj.CoreCompileInputs.cache
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_22\obj\Debug\Programa_22.exe
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_22\obj\Debug\Programa_22.pdb
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_22\bin\Debug\Programa_22.exe.config
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_22\bin\Debug\Programa_22.exe
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_22\bin\Debug\Programa_22.pdb
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_22\obj\Debug\Programa_22.csprojAssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_22\obj\Debug\Programa_22.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_22\obj\Debug\Programa_22.exe
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_22\obj\Debug\Programa_22.pdb

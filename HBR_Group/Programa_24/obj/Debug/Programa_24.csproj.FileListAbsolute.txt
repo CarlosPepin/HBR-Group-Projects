@@ -1,0 +1,13 @@
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_24\bin\Debug\Programa_24.exe.config
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_24\bin\Debug\Programa_24.exe
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_24\bin\Debug\Programa_24.pdb
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_24\obj\Debug\Programa_24.csproj.CoreCompileInputs.cache
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_24\obj\Debug\Programa_24.exe
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_24\obj\Debug\Programa_24.pdb
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_24\bin\Debug\Programa_24.exe.config
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_24\bin\Debug\Programa_24.exe
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_24\bin\Debug\Programa_24.pdb
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_24\obj\Debug\Programa_24.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_24\obj\Debug\Programa_24.exe
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_24\obj\Debug\Programa_24.pdb
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_24\obj\Debug\Programa_24.csprojAssemblyReference.cache

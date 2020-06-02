@@ -1,0 +1,13 @@
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_20\bin\Debug\Programa_20.exe.config
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_20\bin\Debug\Programa_20.exe
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_20\bin\Debug\Programa_20.pdb
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_20\obj\Debug\Programa_20.csproj.CoreCompileInputs.cache
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_20\obj\Debug\Programa_20.exe
+C:\Users\Family\Desktop\Carlitos\Visual Studio\HBR_Group\Programa_20\obj\Debug\Programa_20.pdb
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_20\bin\Debug\Programa_20.exe.config
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_20\bin\Debug\Programa_20.exe
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_20\bin\Debug\Programa_20.pdb
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_20\obj\Debug\Programa_20.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_20\obj\Debug\Programa_20.exe
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_20\obj\Debug\Programa_20.pdb
+C:\Users\carlo\OneDrive\Escritorio\Visual Studio\HBR_Group\Programa_20\obj\Debug\Programa_20.csprojAssemblyReference.cache
